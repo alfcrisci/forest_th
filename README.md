@@ -19,9 +19,12 @@ Prove:
     rappresentato) nelle prime ore di irraggiamento solare (trend discendente dalle ore 08:45 solari alle ore 12 solari), con
     valori iniziali quasi doppi anche rispetto al picco locale di cui al punto 1.
     
-    Il ciclo del 31 Agosto evidenzia crollo delle concentrazioni dopo le ore 14 solari, forse legato alla diminuzione (azzeramento o quasi, in realtà) della radiazione solare diretta causa nuvolosità.
+    Il ciclo del 31 Agosto evidenzia crollo delle concentrazioni dopo le ore 14 solari, forse legato alla diminuzione 
+    (azzeramento o quasi, in realtà) della radiazione solare diretta causa nuvolosità.
     
-    Il percorso Pratorsi - Rifugio del Montanaro del 27 Agosto evidenzia nuovamente concentrazioni più elevate all'inizio (circa ore 08:30 solari), in diminuzione praticamente continua durante il percorso (di salita); questa potrebbe essere una caratteristica "ambientale" comune e ricorrente.
+    Il percorso Pratorsi - Rifugio del Montanaro del 27 Agosto evidenzia nuovamente concentrazioni più elevate all'inizio (circa
+    ore 08:30 solari), in diminuzione praticamente continua durante il percorso (di salita); questa potrebbe essere una 
+    caratteristica "ambientale" comune e ricorrente.
     
     Il percorso Rifugio del Montanaro - Pratorsi del 27 Luglio evidenzia valori molto bassi, e in diminuzione, tra le ore 11:00 
     solari e le ore 11:50 solari circa, tanto che a Pratorsi, alle ore 11:50 solari, si rilevavano valori quattro volte inferiori 
